@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Expense" max_length="40" name="x_yttvt_expense_x_yttvt_expense" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval" max_length="40" name="u_approval" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="0" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="255" name="u_description" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Owner" max_length="32" name="u_owner" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Amount To Reimburse" max_length="20" name="u_reimburse_amount" read_only="true" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" mandatory="true" max_length="40" name="u_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Approval" sequence="1" value="approval"/>
+                <element inactive_on_update="false" label="Payment" sequence="2" value="payment"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Total Amount" max_length="20" name="u_total_amount" read_only="true" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Amount W/Out VAT" max_length="20" name="u_vat_amount" read_only="true" type="decimal"/>
+        <index name="index">
+            <element name="u_owner"/>
+        </index>
+    </element>
+</database>

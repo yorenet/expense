@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Expenses">9b7d323f37c4330025d1696043990e83</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">51848fb33708330025d1696043990e98</icon>
+        <name>All Expenses</name>
+        <order>10</order>
+        <parent>022dfafb37c4330025d1696043990e3a</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>068443f33708330025d1696043990e42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Expenses</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_068443f33708330025d1696043990e42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 21:18:33</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Expenses">9b7d323f37c4330025d1696043990e83</data_item>
+        <dependency_fields>sys_group_by,sys_count</dependency_fields>
+        <item_view_json>{&#13;
+  "Type": "ViewGroup",&#13;
+  "Margin": {&#13;
+    "Top": 15,&#13;
+    "Bottom": 14&#13;
+  },&#13;
+  "Orientation": "Horizontal",&#13;
+  "Alignment": "Center",&#13;
+  "Distribution": "Auto",&#13;
+  "Children": [&#13;
+    {&#13;
+      "Type": "ViewGroup",&#13;
+      "Orientation": "Vertical",&#13;
+      "Alignment": "Left",&#13;
+      "Distribution": "Auto",&#13;
+      "Children": [&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Text": "PLACEHOLDER",&#13;
+          "CellId": "sys_group_by",&#13;
+          "TextColor": "#293e40",&#13;
+          "TextAlignment": "Left",&#13;
+          "MaxLines": 2,&#13;
+          "Font": {&#13;
+            "Weight": "regular",&#13;
+            "Size": 16&#13;
+          }&#13;
+        }&#13;
+      ]&#13;
+    },&#13;
+    {&#13;
+      "Type": "ViewGroup",&#13;
+      "Margin": {&#13;
+        "Left": 16,&#13;
+        "Right": 16&#13;
+      },&#13;
+      "Orientation": "Vertical",&#13;
+      "Alignment": "Stretch",&#13;
+      "Distribution": "Auto",&#13;
+      "Children": [&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Text": "9999",&#13;
+          "CellId": "sys_count",&#13;
+          "TextColor": "#7d8a8c",&#13;
+          "TextAlignment": "Right",&#13;
+          "MaxLines": 1,&#13;
+          "Font": {&#13;
+            "Weight": "regular",&#13;
+            "Size": 14&#13;
+          },&#13;
+          "Margin": {}&#13;
+        }&#13;
+      ]&#13;
+    },&#13;
+    {&#13;
+      "Type": "ViewGroup",&#13;
+      "Width": 50,&#13;
+      "Margin": {&#13;
+        "Right": 16&#13;
+      },&#13;
+      "Orientation": "Vertical",&#13;
+      "Alignment": "Right",&#13;
+      "Distribution": "Auto",&#13;
+      "Children": [&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Width": 50,&#13;
+          "Margin": {},&#13;
+          "Text": "\ue900",&#13;
+          "TextColor": "#a7b0b2",&#13;
+          "TextAlignment": "Right",&#13;
+          "MaxLines": 1,&#13;
+          "Font": {&#13;
+            "Weight": "regular",&#13;
+            "Size": 14,&#13;
+            "Name": "icomoon"&#13;
+          }&#13;
+        }&#13;
+      ]&#13;
+    }&#13;
+  ]&#13;
+}</item_view_json>
+        <name>Expense View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 20:36:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>95e20b733708330025d1696043990e66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense View</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_item_view_95e20b733708330025d1696043990e66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 20:36:42</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Expense Items" max_length="40" name="x_yttvt_expense_items" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Description" mandatory="true" max_length="40" name="u_description" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Kırtasiye" value="6"/>
+                <element inactive_on_update="false" label="Mobilite" value="7"/>
+                <element inactive_on_update="false" label="Otopark" value="4"/>
+                <element inactive_on_update="false" label="Taksi" value="1"/>
+                <element inactive_on_update="false" label="Uçak Bileti" value="2"/>
+                <element inactive_on_update="false" label="Yakıt" value="5"/>
+                <element inactive_on_update="false" label="Yemek" value="3"/>
+                <element inactive_on_update="false" label="Diğer" sequence="0" value="45"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Expense" max_length="32" name="u_expense" read_only="true" reference="x_yttvt_expense_x_yttvt_expense" type="reference"/>
+        <element label="Receipt Date" mandatory="true" max_length="40" name="u_receipt_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="true" label="Reimbursable" max_length="40" name="u_reimbursable" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Amount" mandatory="true" max_length="20" name="u_total_amount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="VAT" mandatory="true" max_length="40" name="u_vat" type="integer"/>
+        <index name="index">
+            <element name="u_expense"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>expense_approval</internal_name>
+        <label_cache>[{"name":"f37b1293-42d5-4ba3-98cf-0c5143281553.record.sys_created_by","label":"1➛Expense Record➛Created by","reference":"","reference_display":"Created by","type":"string","base_type":"string","parent_table_name":"x_yttvt_expense_x_yttvt_expense","column_name":"sys_created_by"},{"name":"f37b1293-42d5-4ba3-98cf-0c5143281553.record","label":"1➛Expense Record","reference":"x_yttvt_expense_x_yttvt_expense","reference_display":"Expense","type":"reference","base_type":"reference"},{"name":"f37b1293-42d5-4ba3-98cf-0c5143281553.table_name","label":"1➛Expense Table","reference":"x_yttvt_expense_x_yttvt_expense","reference_display":"Expense","type":"table_name","base_type":"table_name"},{"name":"Created or Updated_1.current","label":"trigger➛Expense Record","reference":"x_yttvt_expense_x_yttvt_expense","reference_display":"Expense","type":"reference","base_type":"reference"},{"name":"74ea690f-0ce6-41dd-b163-b705d977d207.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.7e2c13114f2003007889fdb28110c7c8}}","label":"Hakan Kalyoncu","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"803a725d-9fd5-4b1d-9133-3560f33005dd.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"803a725d-9fd5-4b1d-9133-3560f33005dd.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"f37b1293-42d5-4ba3-98cf-0c5143281553.record.u_approval","label":"1➛Expense Record➛Approval","reference":"","reference_display":"Approval","type":"choice","base_type":"choice","parent_table_name":"x_yttvt_expense_x_yttvt_expense","column_name":"u_approval"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Expense Approval</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 19:39:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5406b67fdb043f00b1f5363ffe961905</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Expense Approval</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_hub_flow_5406b67fdb043f00b1f5363ffe961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 21:56:49</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=5406b67fdb043f00b1f5363ffe961905"/>
+</record_update>

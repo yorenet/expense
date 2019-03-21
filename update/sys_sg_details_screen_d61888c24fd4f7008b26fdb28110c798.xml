@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Expenses">9b7d323f37c4330025d1696043990e83</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">e5180cc24fd4f7008b26fdb28110c789</icon>
+        <item_view display_value="Xpense detail item view">311880064fd4f7008b26fdb28110c712</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>9e1880064fd4f7008b26fdb28110c760</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 06:46:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d61888c24fd4f7008b26fdb28110c798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_details_screen_d61888c24fd4f7008b26fdb28110c798</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 06:46:14</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

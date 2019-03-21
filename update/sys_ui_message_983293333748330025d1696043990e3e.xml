@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>Item in</key>
+        <language>en</language>
+        <message>Item in</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 21:42:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>983293333748330025d1696043990e3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item in</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_ui_message_983293333748330025d1696043990e3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 21:42:52</sys_updated_on>
+    </sys_ui_message>
+</record_update>

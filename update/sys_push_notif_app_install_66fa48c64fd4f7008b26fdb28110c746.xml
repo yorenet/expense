@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-03-21 06:58:48</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 06:58:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>66fa48c64fd4f7008b26fdb28110c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EEF2D26597FE6A8CE240DE97E2DB3F9FD19E21FE93D8E4D3E5EAD5B5CAB41383</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_66fa48c64fd4f7008b26fdb28110c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 06:58:48</sys_updated_on>
+        <sys_user_id display_value="Hakan Kalyoncu">7e2c13114f2003007889fdb28110c7c8</sys_user_id>
+        <token>EEF2D26597FE6A8CE240DE97E2DB3F9FD19E21FE93D8E4D3E5EAD5B5CAB41383</token>
+    </sys_push_notif_app_install>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>u_total_amount</data_item_field_name>
+        <hidden>false</hidden>
+        <order>20</order>
+        <screen display_value="Details">ad578f773708330025d1696043990e65</screen>
+        <screen_data_item_table>x_yttvt_expense_x_yttvt_expense</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 20:55:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ce574f773708330025d1696043990eff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_total_amount</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_screen_field_ce574f773708330025d1696043990eff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 20:55:28</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

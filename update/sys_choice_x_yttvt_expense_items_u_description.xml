@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_description" table="x_yttvt_expense_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Taksi</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d182e33dbc03f00b1f5363ffe96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:02</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Uçak Bileti</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:39:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e186e33dbc03f00b1f5363ffe96190b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:10</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yemek</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:39:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d286e33dbc03f00b1f5363ffe961990</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:22</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Otopark</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:39:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88386e33dbc03f00b1f5363ffe96190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:33</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yakıt</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:39:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee386e33dbc03f00b1f5363ffe961997</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:41</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kırtasiye</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:39:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c486e33dbc03f00b1f5363ffe961998</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:39:48</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobilite</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:40:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a482273dbc03f00b1f5363ffe96194f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:40:12</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diğer</label>
+            <language>en</language>
+            <name>x_yttvt_expense_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:48:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0868a273dbc03f00b1f5363ffe96194e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:48:58</sys_updated_on>
+            <value>45</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <name>x_yttvt_expense_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-14 18:38:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6357b6f337c4330025d1696043990e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_description</sys_name>
+            <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+            <sys_update_name>sys_choice_x_yttvt_expense_items_u_description</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-14 18:38:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Expenses item view">618403f33708330025d1696043990e8f</item_view>
+        <name>Master Item</name>
+        <screen display_value="All Expenses">068443f33708330025d1696043990e42</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 20:43:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e68443f33708330025d1696043990eaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_master_item_e68443f33708330025d1696043990eaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 20:43:12</sys_updated_on>
+        <table>x_yttvt_expense_x_yttvt_expense</table>
+    </sys_sg_master_item>
+</record_update>

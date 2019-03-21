@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description/>
+        <icon display_value="folder-open">ad2d32bb37c4330025d1696043990e46</icon>
+        <name>Expense</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 20:10:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c22dfafb37c4330025d1696043990e39</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Expense</sys_name>
+        <sys_package display_value="Expense Management" source="x_yttvt_expense">bcbf9affdb403f00b1f5363ffe961970</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense Management">bcbf9affdb403f00b1f5363ffe961970</sys_scope>
+        <sys_update_name>sys_sg_application_c22dfafb37c4330025d1696043990e39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 20:17:24</sys_updated_on>
+    </sys_sg_application>
+</record_update>
